@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804011658256",
+    "project_id": "kwallpaper-88bd1",
+    "storage_bucket": "kwallpaper-88bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804011658256:android:b17fef83bb8a2762e5ce95",
+        "android_client_info": {
+          "package_name": "com.basanttamang.kwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804011658256-gbcqhfq8944i203sm7uakv835i5tffrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5_yAjYvRHWF3sGjqImbmX4L3B0gYAYkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804011658256-gbcqhfq8944i203sm7uakv835i5tffrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

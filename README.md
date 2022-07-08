@@ -2,6 +2,9 @@
 
 Wallpaper app of korean
 
+#Available in playstore
+https://play.google.com/store/apps/details?id=com.basanttamang.kwallpapers
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
